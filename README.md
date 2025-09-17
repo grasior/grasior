@@ -8,6 +8,6 @@ I’m interested in low-level programming, retro video game hacking, machine lea
 
 - - - 
 
-<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/23b7c995-c61f-4059-b6cc-2166c8d1dfac" /> <img           width="107" height="28" alt="image" src="https://github.com/user-attachments/assets/f07fb489-16ea-4ccf-8cf3-ec0d62068695" /> 
+<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/23b7c995-c61f-4059-b6cc-2166c8d1dfac" />              <img width="107" height="28" alt="image" src="https://github.com/user-attachments/assets/f07fb489-16ea-4ccf-8cf3-ec0d62068695" /> 
  
 
