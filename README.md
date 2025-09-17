@@ -1,4 +1,4 @@
-## O.o
+## 🕊️
 
 >“Truth is so obscure in these times, and falsehood so established, that, unless we love the truth, we cannot know it.” – Blaise Pascal
 
