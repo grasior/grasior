@@ -4,7 +4,7 @@
 
 I’m `eon`, an enthusiast building projects with different tools to grow as a programmer.
 
-I’m interested in low-level programming, retro video game hacking, machine learning, and computer vision. Right now, I’m learning applied math to improve my problem-solving skills and deepen my understanding of how a computer really works on the most intricate parts.
+I’m interested in low-level programming, nanotechnology, machine learning, and data structure. Right now, I’m learning graph theory to improve my problem-solving skills and deepen my understanding of how a computer really works on the most intricate parts.
 
 - - - 
 
